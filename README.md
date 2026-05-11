@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on **Horilla HRMS (Open Source Django Project)**
+- 🔭 Working on **Horilla HRMS & CRM (Open Source Django Project)**
 - ⚙️ Building modules like **Biometric Integration, Webhooks, Dynamic Templates**
 - 🛠️ Strong experience with **Django, REST API, HTMX, LDAP, Postgres, Docker**
 - 👨‍💻 Passionate about **clean automation & workflow optimization**
