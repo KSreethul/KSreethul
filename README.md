@@ -10,7 +10,7 @@
 - 👨‍💻 Passionate about **clean automation & workflow optimization**
 - 💬 Ask me about **Django, API integrations, Middleware, HR automation**
 - 🌱 Exploring **scalable architectures & real-time systems**
-- 📫 Reach me at **yourmail@example.com**
+- 📫 Reach me at **sreethulkrishna@gmail.com**
 
 ---
 
