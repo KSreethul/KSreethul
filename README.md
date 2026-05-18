@@ -90,13 +90,13 @@ Python & Django Developer | Building Scalable HRMS & CRM Solutions
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KSreethul&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreethulKrishna&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSreethul&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreethulKrishna&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KSreethul&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=SreethulKrishna&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@ Python & Django Developer | Building Scalable HRMS & CRM Solutions
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KSreethul&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SreethulKrishna&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ Python & Django Developer | Building Scalable HRMS & CRM Solutions
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KSreethul&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SreethulKrishna&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -125,7 +125,7 @@ Python & Django Developer | Building Scalable HRMS & CRM Solutions
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/KSreethul">
+<a href="https://github.com/SreethulKrishna">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -133,7 +133,7 @@ Python & Django Developer | Building Scalable HRMS & CRM Solutions
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://dev.to/ksreethul">
+<a href="https://dev.to/SreethulKrishna">
   <img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/>
 </a>
 
@@ -158,5 +158,5 @@ If you like my work, consider ⭐ starring repositories and contributing to the 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KSreethul&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=SreethulKrishna&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
